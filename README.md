@@ -1,41 +1,33 @@
 Pavan
 
 Skills:
-
 Programming Languages: C, Python, Java, Javascript, mySQL
 Areas of Interest: Sports, programming, tech, development
+
 Technologies:
-
-Front-End:
-JavaScript: React, Next.js
+Front-End: JavaScript: React, Next.js
 CSS: Bootstrap
-Back-End:
-JavaScript: Node.js, Express
-Databases:
-mongo, MySQL
-Architecture:
+Back-End: JavaScript: Node.js, Express
+Databases: mongo, MySQL
 
+Architecture:
 Progressive web applications
 Single page applications
+
 Experience:
 
-[Organization Name] | [Role]  (Fill in the missing information)
-
-(Description of your experience)
 Projects:
-
-Stock Trading App Simulation | NextJS, NodeJS, Express, APIs, MongoDB
+1.Stock Trading App Simulation | NextJS, NodeJS, Express, APIs, MongoDB
 
 Designed a stock trading simulation application using Next.js, Node.js, and integrated the Upstox API for real-time market data.
-Comprehensive Placement Website | Django, APIs
+
+2.Comprehensive Placement Website | Django, APIs
 
 Developed a placement website using HTML, CSS, JavaScript, and Django to streamline job searches for students in our institution.
-Volunteering
 
+Volunteering:
 NCC
 
-(Specify your role or contributions within NCC)
 Current Focus:
-
 Competitive Programming using Python
-Sleeping better ;)
+Sleeping better
